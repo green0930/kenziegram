@@ -1,0 +1,10 @@
+.modalClass {
+    padding: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+.cardClass {
+    display:flex;
+    justify-content: center;
+}
